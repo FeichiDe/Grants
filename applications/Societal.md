@@ -1,19 +1,19 @@
-# Societal - MVP - Phase 1
+# ZkSync Chinese Community - MVP - Phase 1
 
-- **Team Name:** Societal Labs Ltd.
-- **Payment Address:** Ethereum - USDT:  0xcDcCF94f10d8A7165C1A336DD3795430a6CDE530
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
+- **Team Name:** ZkSync Chinese Community
+- **Payment Address:** zkSync Era - USDC:  0x3637b5a0A7bFE3045E0D96533d6dbEdbc04Ca932
 
 
-## Project Overview
+## Community Overview
 
 ### Overview
 
-Societal is an all-in-one Decentralized Autonomous Organization (DAO) creation and management platform. Societal allows all types of groups or communities to build their own online, transparent, and decentralized organization. Societal bundles all of the tools required to create and manage a DAO in one place. Creators will be empowered to construct a DAO with fungible, non-fungible, or a combination of governance tokens. Societal also offers DAO management tooling features like treasury management, specialized governance, task boards, legal structuring, and accounting. This removes the need to utilize siloed platforms to manage the operations of a DAO. Whether a creator is looking to build a DAO for their organization, raise and deploy investment capital, or decentralize governance of an NFT project, Societal has the necessary tooling for a seamless end-to-end experience.
+zkSync 中文社区是一个由坚信 zkSync 价值观的华人社区成员组成的非官方社区组织。
 
-Utilizing Polkdaot’s layer-0 infrastructure and ecosystem, Societal will provide DAOs with both maximum functionality and a cohesive user experience. With features including agnostic token compatibility, zero gas fees, a freemium entry point, and a SaaS-based membership pricing, Societal combines best-in-class features into one vertically integrated product. With integrations into DeFi, privacy, and identity protocols, Societal will enable web3 organizations to seamlessly transition and manage their DAOs into the future.
+- 我们的使命是为 zkSync 生态系统提供营销、整合和开发者教育等服务，以提供卓越的用户体验并促进讨论增强社区凝聚力。
+- 我们的愿景是通过教育提升整个社区的质量，始终坚持实用主义原则，让每个人都愿意积极传播 zk 技术和对 zkSync 生态的见解。
 
-The Societal team has been building in the Polkadot ecosystem for the last year. While at a previous Polkadot project, the Societal team noticed a lack of integrated DAO tooling - not only in the Polkadot ecosystem, but in the broader web3 industry as a whole. After analyzing how we might transition and manage our previous project into a DAO, there was no clear path. This, along with the team being both members and council members of various DAOs and noticing the lack of infrastructure, we decided to build a solution - Societal.
+
 
 
 ### Project Details
